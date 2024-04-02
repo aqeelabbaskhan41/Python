@@ -1,0 +1,2 @@
+print("Ali is a good boy and \n he is the student of \t university") #\n newline and \t tab
+print("Ali is a good boy an \\\\ d he is the student of \' university") #\\ for print \ and \\\\ for \\ and \' for print '
