@@ -1,0 +1,3 @@
+This is a file.
+It's very better to read this file.
+Good luck to you to work with file handling.
